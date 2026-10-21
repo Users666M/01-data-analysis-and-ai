@@ -25,9 +25,6 @@ python -m src.generate_data
 python -m src.eda
 ```
 
-## Laporan
-Lihat [`docs/studi_kasus.md`](docs/studi_kasus.md).
-
 ## Repo lain dalam rangkaian studi kasus ini
 - `02-hpc-parallel-processing`
 - `03-gis-spatial-analysis`
